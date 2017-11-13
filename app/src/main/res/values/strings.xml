@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WordCounter</string>
+    <string name="instructions">Type a sentence to see how many words it includes.</string>
+    <string name="word_button">Press me!</string>
 </resources>
